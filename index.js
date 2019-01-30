@@ -11,7 +11,7 @@ function johnLennonFacts(facts) {
   var lennon = []
    while (i < facts.length) { 
      lennon.push( facts[i] + "!!!")
-     //i++
+     i++
      
 
    }
